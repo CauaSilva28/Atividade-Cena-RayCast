@@ -15,6 +15,6 @@ public class spawnarFrutas : MonoBehaviour
      void SpawnFruta(){
         int r = Random.Range(0, spawnpoints.Length);
         GameObject Fruta = Instantiate(fruta, spawnpoints[r].position, Quaternion.identity);
-        Fruta.tag = "itens";
+        Fruta.tag = "Itens";
     }
 }
