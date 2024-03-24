@@ -4,13 +4,13 @@ Cena feita utilizando RayCast por Cauã Silva e Pedro Ferraz
 ## Sobre a cena
 <p>Para aplicar o conceito do raycast, prefab e destroy, pensamos em fazer um personagem coletando itens ao clicar neles.</p>
 <p>Os itens(frutas), vão aparecendo aleatoriamente na pequena área do mapa, e toda vez que o jogador clica nele, uma animação de partícula é ativada e depois de 2 segundos ele é destruído. Possui um contador que toda vez que coletar(destruir) um item, ele soma mais um.</p>
-![image](https://github.com/CauaSilva28/Atividade-Cena-RayCast/assets/127631052/ae076ede-5818-4c6c-a023-57cab2d668e5)
+![mostrandofrutas](https://github.com/CauaSilva28/Atividade-Cena-RayCast/assets/127631052/0a1fc2e3-e6ba-4b79-8493-124c26d1e8b5)
 
 <p>Os itens vermelhos que estão no chão são os prefabs, junto com a bolsa do personagem.</p>
-![image](https://github.com/CauaSilva28/Atividade-Cena-RayCast/assets/127631052/0e478302-4631-4bde-8f4b-1188f546400a)
+![mostrandoprefabs](https://github.com/CauaSilva28/Atividade-Cena-RayCast/assets/127631052/6f42fdf4-a82f-483b-a6d4-132d00f8b431)
 
 <p>Na cena adicionamos um cubemap skybox(fundo no cenário) que retrata uma área rural.</p>
-![image](https://github.com/CauaSilva28/Atividade-Cena-RayCast/assets/127631052/e734a442-555c-417f-abb3-fb56dba81553)
+![mostrandocenario](https://github.com/CauaSilva28/Atividade-Cena-RayCast/assets/127631052/60b46857-a10b-45e4-b18c-75bca8a8b20a)
 
 ## Explicando os códigos
 ### RayCast
