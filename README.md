@@ -1,5 +1,5 @@
 # Cena unity com RayCast
-Cena feita utilizando RayCast por Cauã Silva e Pedro Ferraz
+Cena feita utilizando RayCast por Cauã Silva e Pedro Ferraz 3°Jogos Digitais
 
 ## Sobre a cena
 <p>Para aplicar o conceito do raycast, prefab e destroy, pensamos em fazer um personagem coletando itens ao clicar neles.</p>
